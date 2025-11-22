@@ -1,2 +1,1 @@
-# Mi primer proyecto git
-prueba
+# Mi proyecto Git
